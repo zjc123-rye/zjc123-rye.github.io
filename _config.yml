@@ -167,7 +167,7 @@ PrismJS: # 代码高亮插件，可以在https://prismjs.com/download.html自己
 sidebar:
   avatar: # 侧边栏显示的头像
     enable: true
-    img: http://image.baidu.com/search/detail?ct=503316480&z=0&ipn=false&word=%E6%A2%85%E8%A5%BF%E9%AB%98%E6%B8%85%E5%9B%BE%E7%89%87&step_word=&hs=2&pn=15&spn=0&di=200530&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=1286206342%2C2014016150&os=1216128857%2C3213729418&simid=3407417554%2C404704840&adpicid=0&lpn=0&ln=2676&fr=&fmq=1567751114511_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=star&bdtype=0&oriquery=&objurl=http%3A%2F%2Fdesk.fd.zol-img.com.cn%2Fg2%2FM00%2F00%2F09%2FChMlWVW7KAaIWbOrAAZ6wThbff8AAH8YgFD9eUABnrZ779.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3F1jfh_z%26e3Bz5s_z%26e3Bv54_z%26e3BvgAzdH3FktzitAzdH3Fc0a0_08a9b_d_z%26e3Bip4s&gsm=0&rpstart=0&rpnum=0&islist=&querylist=&force=undefined # 头像的地址
+    img: http://desk.zol.com.cn/bizhi/5707_71048_2.html # 头像的地址
     info: <br>OUC17级在读<br>计算机科学与技术<br>17020031097<br>League of Legend # 头像背后的信息
   description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=52 src="//music.163.com/outchain/player?type=0&id=155059595&auto=0&height=32"></iframe>'
   social:
