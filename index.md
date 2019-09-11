@@ -1,6 +1,7 @@
 ﻿---
 layout: page
-title: 夜的星Lnilyshowtag:
+title: 夜的星Lnily
+showtag:
 - ICPC模板
 ---
 ## 近期
