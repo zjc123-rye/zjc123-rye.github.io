@@ -1,7 +1,6 @@
----
+﻿---
 layout: page
-title: 今、情热が岚になって
-showtag:
+title: 夜的星Lnilyshowtag:
 - ICPC模板
 ---
 ## 近期
